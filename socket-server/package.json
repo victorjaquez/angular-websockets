@@ -1,7 +1,6 @@
 {
   "name": "socket-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,7 @@
     "@types/socket.io": "^2.1.2",
     "express": "^4.16.4",
     "socket.io": "^2.2.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
